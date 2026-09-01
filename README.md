@@ -29,8 +29,8 @@ behavior, and payment success rates to support data-driven decision-making.
 - Data modeling (star schema with Date Table)
 
 ## 📂 Files
-- `phonepe_payment_insights.pbix` – Power BI report file
-- `/screenshots` – Dashboard preview images
+   - [Phonepe_analysis.pbix](./Phonepe_analysis.pbix) – Power BI report file (open in Power BI Desktop)
+   - [Phonepe-Final-Dataset.xlsx](./Phonepe-Final-Dataset.xlsx) – Source dataset used for analysis
 
 ## 🔍 Insights
 - Weekdays account for ~72% of total transactions vs. ~28% on weekends
